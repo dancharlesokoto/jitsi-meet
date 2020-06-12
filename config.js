@@ -488,7 +488,7 @@ var config = {
     // Mainly privacy related settings
 
     // Disables all invite functions from the app (share, invite, dial out...etc)
-    // disableInviteFunctions: true,
+   disableInviteFunctions: true,
 
     // Disables storing the room name to the recents list
     // doNotStoreRoom: true,
